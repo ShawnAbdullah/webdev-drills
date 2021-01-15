@@ -1,0 +1,96 @@
+body {
+    background: lightgray
+}
+
+h2, p, .readme-wrapper {
+    margin: auto;
+    width: 75%;
+}
+
+a {
+    color: maroon;
+}
+
+a:hover {
+    background-color:blue;
+  }
+
+.box {
+    margin: 20px;
+    padding: 20px 20px;
+    border: 10px solid rgb(28, 13, 97);
+    border-radius: 5px;
+    width: 25em;
+    background-color: skyblue;
+    display:block;
+}
+
+.relative {
+    position: relative;
+    bottom: 143px;
+    left: 478px;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 559px;
+    left: 475px;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius:50px;
+    background:purple;
+    position: relative;
+    bottom: -32px;
+    left: 0px;
+}
+
+h1 {
+    color:saddlebrown;
+}
+
+.original {
+    color:slateblue;
+}
+
+.additional {
+    color:red;
+}
+
+#show1 {
+    color:darkred;
+}
+
+#show2 {
+    color: orange;
+}
+
+#show3 {
+    color:yellow;
+}
+
+#show4 {
+    color:green;
+}
+
+#show5 {
+    color: blue;
+}
+
+ul {
+    color: red;
+}
+
+.star {
+    color: green;
+}
+
+#wars {
+    color:purple;
+}
+
+.list {
+    border: 2px solid black;
+}

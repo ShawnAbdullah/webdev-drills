@@ -1,0 +1,7 @@
+.relative {
+    position: relative;
+    top: 50em;
+}
+.fixed {
+    position: fixed;
+}

@@ -1,0 +1,38 @@
+#board {
+    padding-top: 3em;
+    text-align: center;
+}
+
+.row {
+    clear:both;
+    text-align:center;
+    width:302px;
+}
+
+.top, .middle, .bottom {
+    float: left;
+    height:100px;
+    width:100px;
+}
+
+.top {
+    border-bottom: 1px solid black;
+}
+
+.bottom {
+    border-top: 1px solid black;
+}
+
+.left {
+    border-right:1px solid black;
+}
+
+.right {
+    border-left:1px solid black;
+}
+
+.top:hover, .middle:hover, .bottom:hover {
+    background-color:blue;
+  }
+
+

@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+}
+
+.text-red {
+    color:red;
+}
+
+#submitButton {
+    background:blue;
+}
+
+[for="email"] {
+    font-weight: bold;
+}
+
+input, label, button, select {
+    display: block;
+}
+
+.highlight { background-color:#FFFF00; 
+}
